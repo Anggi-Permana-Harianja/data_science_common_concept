@@ -1,2 +1,2 @@
-# data_science_common_concept
+# Data Science common concept
 Codes for common concepts in data scientist
