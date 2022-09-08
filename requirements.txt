@@ -1,3 +1,5 @@
 catboost
 ipywidgets
 xgboost
+ipympl
+matplotlib
